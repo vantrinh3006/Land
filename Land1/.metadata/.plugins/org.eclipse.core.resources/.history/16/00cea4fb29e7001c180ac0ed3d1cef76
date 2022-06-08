@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<section id="footer_bottom_area">
+	<div class="clearfix wrapper footer_bottom">
+		<div class="clearfix copyright floatleft">
+			<p>
+				Copyright &copy;. Code by <span>Tran Van Trinh - Mai Van Dat - Luong Huu Chung</span>
+			</p>
+		</div>
+		<div class="clearfix social floatright">
+			<ul>
+				<li><a class="tooltip" title="Facebook" href="https://www.facebook.com/profile.php?id=100004573397537"><i
+						class="fa fa-facebook-square"></i></a></li>
+				<li><a class="tooltip" title="Twitter" href=""><i
+						class="fa fa-twitter-square"></i></a></li>
+				<li><a class="tooltip" title="Google+" href="https://www.google.com/intl/vi/gmail/about/"><i
+						class="fa fa-google-plus-square"></i></a></li>
+			</ul>
+		</div>
+	</div>
+</section>

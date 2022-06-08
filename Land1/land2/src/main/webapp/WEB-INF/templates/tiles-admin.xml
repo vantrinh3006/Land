@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+<!-- Template ADMIN -->
+  <definition name="template.admin" template="/WEB-INF/views/templates/admin.jsp">
+    <put-attribute name="header" value="/WEB-INF/views/components/admin/header.jsp" />
+    <put-attribute name="title" value="Dự án Land" />
+    <put-attribute name="leftbar" value="/WEB-INF/views/components/admin/leftbar.jsp" />
+    <put-attribute name="body" value="" />
+    <put-attribute name="footer" value="/WEB-INF/views/components/admin/footer.jsp" />
+  </definition>
+  
+  <!-- INDEX -->
+  
+  <definition name="admin.index" extends="template.admin" >
+    <put-attribute name="body" value="/WEB-INF/views/admin/index.jsp" />
+  </definition>
+  
+  <!-- Categories -->
+  
+  <definition name="admin.cat.index" extends="template.admin" >
+  	<put-attribute name="title" value="Quản lý danh mục" />
+    <put-attribute name="body" value="/WEB-INF/views/admin/cat/index.jsp" />
+  </definition>
+  
+  <definition name="admin.cat.add" extends="template.admin" >
+  	<put-attribute name="title" value="Thêm danh mục" />
+    <put-attribute name="body" value="/WEB-INF/views/admin/cat/add.jsp" />
+  </definition>
+  
+    <definition name="admin.cat.edit" extends="template.admin" >
+    <put-attribute name="title" value="Sửa danh mục" />
+    <put-attribute name="body" value="/WEB-INF/views/admin/cat/edit.jsp" />
+  </definition>
+  
+  <!-- Lands -->
+  
+  <definition name="admin.land.index" extends="template.admin" >
+  	<put-attribute name="title" value="Quản lý bất động sản" />
+    <put-attribute name="body" value="/WEB-INF/views/admin/land/index.jsp" />
+  </definition>
+  
+  <definition name="admin.land.add" extends="template.admin" >
+  <put-attribute name="title" value="Thêm bất động sản" />
+    <put-attribute name="body" value="/WEB-INF/views/admin/land/add.jsp" />
+  </definition>
+  
+    <definition name="admin.land.edit" extends="template.admin" >
+    <put-attribute name="title" value="Sửa bất động sản" />
+    <put-attribute name="body" value="/WEB-INF/views/admin/land/edit.jsp" />
+  </definition>
+  
+  <!-- User -->
+  
+  <definition name="admin.user.index" extends="template.admin" >
+  	<put-attribute name="title" value="Quản lý người dùng" />
+    <put-attribute name="body" value="/WEB-INF/views/admin/user/index.jsp" />
+  </definition>
+  
+  <definition name="admin.user.edit" extends="template.admin" >
+  	<put-attribute name="title" value="Sửa người dùng" />
+    <put-attribute name="body" value="/WEB-INF/views/admin/user/edit.jsp" />
+  </definition>
+  
+    <definition name="admin.user.add" extends="template.admin" >
+    <put-attribute name="title" value="Thêm người dùng" />
+    <put-attribute name="body" value="/WEB-INF/views/admin/user/add.jsp" />
+  </definition>
+  
+  <!-- Contact -->
+  
+  <definition name="admin.contact.index" extends="template.admin" >
+  	<put-attribute name="title" value="Quản lý liên hệ" />
+    <put-attribute name="body" value="/WEB-INF/views/admin/contact/index.jsp" />
+  </definition>
+  
+
+</tiles-definitions>

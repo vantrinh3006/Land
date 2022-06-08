@@ -1,0 +1,160 @@
+
+Feb 15, 2022 20:27:22.00 NEW SESSION
+Feb 15, 2022 20:27:22.00 [7708:11052:0215/202722.001:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 15, 2022 20:27:22.00 [7708:11052:0215/202722.001:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 15, 2022 20:27:22.00 [7708:11052:0215/202722.001:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 15, 2022 20:27:22.00 [7708:11052:0215/202722.001:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 15, 2022 20:27:22.00 [7708:10228:0215/202722.003:ERROR:device_event_log_impl.cc(214)] [20:27:22.004] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 15, 2022 20:27:22.00 [7708:10228:0215/202722.004:ERROR:device_event_log_impl.cc(214)] [20:27:22.005] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 15, 2022 20:27:22.00 [7708:10228:0215/202722.004:ERROR:device_event_log_impl.cc(214)] [20:27:22.005] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 20, 2022 16:01:54.75 NEW SESSION
+Feb 20, 2022 16:01:54.75 [8008:8200:0220/160154.750:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 20, 2022 16:01:54.77 [8008:8200:0220/160154.750:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 20, 2022 16:01:54.77 [8008:8200:0220/160154.750:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 20, 2022 16:01:54.77 [8008:8200:0220/160154.751:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 20, 2022 16:01:54.77 [8008:5000:0220/160154.753:ERROR:device_event_log_impl.cc(214)] [16:01:54.753] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2022 16:01:54.77 [8008:5000:0220/160154.754:ERROR:device_event_log_impl.cc(214)] [16:01:54.754] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2022 16:01:54.77 [8008:5000:0220/160154.754:ERROR:device_event_log_impl.cc(214)] [16:01:54.754] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 22, 2022 21:34:49.94 NEW SESSION
+Feb 22, 2022 21:34:49.94 [11176:11420:0222/213449.925:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 21:34:49.96 [11176:7372:0222/213449.937:ERROR:device_event_log_impl.cc(214)] [21:34:49.937] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 21:34:49.96 [11176:7372:0222/213449.946:ERROR:device_event_log_impl.cc(214)] [21:34:49.945] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 21:34:49.96 [11176:7372:0222/213449.946:ERROR:device_event_log_impl.cc(214)] [21:34:49.945] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 21:34:49.96 [11176:11420:0222/213449.960:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 22, 2022 21:34:49.96 [11176:11420:0222/213449.960:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 21:34:49.96 [11176:11420:0222/213449.961:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+
+Feb 23, 2022 22:17:14.46 NEW SESSION
+Feb 23, 2022 22:17:14.46 [7380:13016:0223/221714.463:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 23, 2022 22:17:14.48 [7380:13016:0223/221714.463:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 23, 2022 22:17:14.48 [7380:13016:0223/221714.463:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 23, 2022 22:17:14.48 [7380:13016:0223/221714.463:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 23, 2022 22:17:14.48 [7380:14544:0223/221714.467:ERROR:device_event_log_impl.cc(214)] [22:17:14.467] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2022 22:17:14.49 [7380:14544:0223/221714.467:ERROR:device_event_log_impl.cc(214)] [22:17:14.467] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2022 22:17:14.49 [7380:14544:0223/221714.467:ERROR:device_event_log_impl.cc(214)] [22:17:14.467] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 01, 2022 20:10:34.08 NEW SESSION
+Mar 01, 2022 20:10:34.08 [4668:4776:0301/201034.071:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 01, 2022 20:10:34.14 [4668:4776:0301/201034.085:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 01, 2022 20:10:34.14 [4668:4776:0301/201034.085:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 01, 2022 20:10:34.14 [4668:10992:0301/201034.082:ERROR:device_event_log_impl.cc(214)] [20:10:34.082] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2022 20:10:34.14 [4668:4776:0301/201034.086:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 01, 2022 20:10:34.14 [4668:10992:0301/201034.087:ERROR:device_event_log_impl.cc(214)] [20:10:34.087] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 01, 2022 20:26:11.92 NEW SESSION
+Mar 01, 2022 20:26:11.92 [14560:15084:0301/202611.922:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 01, 2022 20:26:11.92 [14560:15084:0301/202611.923:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 01, 2022 20:26:11.92 [14560:15084:0301/202611.923:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 01, 2022 20:26:11.92 [14560:15084:0301/202611.923:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 01, 2022 20:26:11.92 [14560:10412:0301/202611.926:ERROR:device_event_log_impl.cc(214)] [20:26:11.926] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2022 20:26:11.92 [14560:10412:0301/202611.926:ERROR:device_event_log_impl.cc(214)] [20:26:11.926] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2022 20:26:11.92 [14560:10412:0301/202611.926:ERROR:device_event_log_impl.cc(214)] [20:26:11.926] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 01, 2022 20:49:58.88 NEW SESSION
+Mar 01, 2022 20:49:58.88 [7564:12260:0301/204958.884:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 01, 2022 20:49:58.88 [7564:12260:0301/204958.884:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 01, 2022 20:49:58.88 [7564:12260:0301/204958.884:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 01, 2022 20:49:58.88 [7564:12260:0301/204958.885:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 01, 2022 20:49:58.88 [7564:10844:0301/204958.887:ERROR:device_event_log_impl.cc(214)] [20:49:58.887] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2022 20:49:58.88 [7564:10844:0301/204958.888:ERROR:device_event_log_impl.cc(214)] [20:49:58.887] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2022 20:49:58.92 [7564:10844:0301/204958.888:ERROR:device_event_log_impl.cc(214)] [20:49:58.887] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 01, 2022 21:47:45.58 NEW SESSION
+Mar 01, 2022 21:47:45.58 [7308:10740:0301/214745.579:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 01, 2022 21:47:45.58 [7308:10740:0301/214745.579:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 01, 2022 21:47:45.58 [7308:10740:0301/214745.579:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 01, 2022 21:47:45.58 [7308:10740:0301/214745.582:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 01, 2022 21:47:45.58 [7308:3524:0301/214745.585:ERROR:device_event_log_impl.cc(214)] [21:47:45.584] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2022 21:47:45.58 [7308:3524:0301/214745.585:ERROR:device_event_log_impl.cc(214)] [21:47:45.584] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2022 21:47:45.58 [7308:3524:0301/214745.585:ERROR:device_event_log_impl.cc(214)] [21:47:45.584] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 01, 2022 22:59:48.01 NEW SESSION
+Mar 01, 2022 22:59:48.01 [13368:15160:0301/225948.009:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 01, 2022 22:59:48.03 [13368:15160:0301/225948.009:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 01, 2022 22:59:48.03 [13368:15160:0301/225948.009:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 01, 2022 22:59:48.03 [13368:15160:0301/225948.010:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 01, 2022 22:59:48.03 [13368:2888:0301/225948.013:ERROR:device_event_log_impl.cc(214)] [22:59:48.013] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2022 22:59:48.03 [13368:2888:0301/225948.013:ERROR:device_event_log_impl.cc(214)] [22:59:48.013] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2022 22:59:48.03 [13368:2888:0301/225948.013:ERROR:device_event_log_impl.cc(214)] [22:59:48.013] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 02, 2022 15:15:24.94 NEW SESSION
+Mar 02, 2022 15:15:24.94 [5852:12768:0302/151524.943:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 02, 2022 15:15:24.97 [5852:12768:0302/151524.944:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Mar 02, 2022 15:15:24.97 [5852:12768:0302/151524.944:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Mar 02, 2022 15:15:24.97 [5852:12768:0302/151524.946:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Mar 02, 2022 15:15:24.97 [5852:11104:0302/151524.949:ERROR:device_event_log_impl.cc(214)] [15:15:24.948] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2022 15:15:24.97 [5852:11104:0302/151524.949:ERROR:device_event_log_impl.cc(214)] [15:15:24.949] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2022 15:15:24.97 [5852:11104:0302/151524.949:ERROR:device_event_log_impl.cc(214)] [15:15:24.949] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2022 15:15:31.29 [5852:11104:0302/151531.299:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+May 13, 2022 22:30:28.51 NEW SESSION
+May 13, 2022 22:30:28.51 [7604:12096:0513/223028.514:ERROR:device_event_log_impl.cc(214)] [22:30:28.513] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 13, 2022 22:30:28.51 [7604:12096:0513/223028.514:ERROR:device_event_log_impl.cc(214)] [22:30:28.513] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 13, 2022 22:30:28.51 [7604:12096:0513/223028.514:ERROR:device_event_log_impl.cc(214)] [22:30:28.513] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 13, 2022 22:31:25.34 [7604:10884:0513/223125.343:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+May 14, 2022 16:16:40.14 NEW SESSION
+May 14, 2022 16:16:40.14 [5604:6132:0514/161640.146:ERROR:device_event_log_impl.cc(214)] [16:16:40.146] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 14, 2022 16:16:40.19 [5604:6132:0514/161640.147:ERROR:device_event_log_impl.cc(214)] [16:16:40.146] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 14, 2022 16:16:40.19 [5604:6132:0514/161640.147:ERROR:device_event_log_impl.cc(214)] [16:16:40.147] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 14, 2022 16:17:37.03 [5604:3232:0514/161737.039:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+May 14, 2022 20:02:55.10 NEW SESSION
+May 14, 2022 20:02:55.10 [12544:5704:0514/200255.098:ERROR:device_event_log_impl.cc(214)] [20:02:55.098] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 14, 2022 20:02:55.10 [12544:5704:0514/200255.099:ERROR:device_event_log_impl.cc(214)] [20:02:55.098] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 14, 2022 20:02:55.10 [12544:5704:0514/200255.099:ERROR:device_event_log_impl.cc(214)] [20:02:55.098] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 14, 2022 20:03:52.01 [12544:12336:0514/200352.017:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+May 15, 2022 09:37:24.59 NEW SESSION
+May 15, 2022 09:37:24.59 [1128:3928:0515/093724.594:ERROR:device_event_log_impl.cc(214)] [09:37:24.594] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 09:37:24.60 [1128:3928:0515/093724.594:ERROR:device_event_log_impl.cc(214)] [09:37:24.595] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 09:37:24.60 [1128:3928:0515/093724.594:ERROR:device_event_log_impl.cc(214)] [09:37:24.595] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 09:38:21.49 [1128:3612:0515/093821.490:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+May 15, 2022 10:35:04.39 [8612:8656:0515/103504.394:ERROR:device_event_log_impl.cc(214)] [10:35:04.395] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 10:35:04.39 [8612:8656:0515/103504.394:ERROR:device_event_log_impl.cc(214)] [10:35:04.396] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 10:35:04.39 [8612:8656:0515/103504.394:ERROR:device_event_log_impl.cc(214)] [10:35:04.396] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 10:36:01.28 [8612:6020:0515/103601.289:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+May 15, 2022 14:39:12.71 NEW SESSION
+May 15, 2022 14:39:12.71 [7416:8548:0515/143912.716:ERROR:device_event_log_impl.cc(214)] [14:39:12.716] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 14:39:12.71 [7416:8548:0515/143912.716:ERROR:device_event_log_impl.cc(214)] [14:39:12.716] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 14:39:12.72 [7416:8548:0515/143912.716:ERROR:device_event_log_impl.cc(214)] [14:39:12.716] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 14:40:09.54 [7416:12192:0515/144009.540:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+May 15, 2022 17:55:41.00 [7416:8912:0515/175541.001:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+
+May 15, 2022 21:22:19.45 NEW SESSION
+May 15, 2022 21:22:19.45 [14208:1268:0515/212219.447:ERROR:device_event_log_impl.cc(214)] [21:22:19.447] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 21:22:19.45 [14208:1268:0515/212219.447:ERROR:device_event_log_impl.cc(214)] [21:22:19.447] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 21:22:19.45 [14208:1268:0515/212219.447:ERROR:device_event_log_impl.cc(214)] [21:22:19.447] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 15, 2022 21:23:16.34 [14208:9480:0515/212316.342:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+May 16, 2022 08:22:33.81 NEW SESSION
+May 16, 2022 08:22:33.81 [11116:2888:0516/082233.812:ERROR:device_event_log_impl.cc(214)] [08:22:33.813] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 16, 2022 08:22:33.82 [11116:2888:0516/082233.813:ERROR:device_event_log_impl.cc(214)] [08:22:33.813] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 16, 2022 08:22:33.82 [11116:2888:0516/082233.813:ERROR:device_event_log_impl.cc(214)] [08:22:33.814] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 16, 2022 08:23:30.75 [11116:5888:0516/082330.757:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+May 16, 2022 22:04:53.81 NEW SESSION
+May 16, 2022 22:04:53.81 [2028:3988:0516/220453.814:ERROR:device_event_log_impl.cc(214)] [22:04:53.814] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 16, 2022 22:04:53.81 [2028:3988:0516/220453.815:ERROR:device_event_log_impl.cc(214)] [22:04:53.814] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 16, 2022 22:04:53.81 [2028:3988:0516/220453.815:ERROR:device_event_log_impl.cc(214)] [22:04:53.815] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 16, 2022 22:05:50.65 [2028:6244:0516/220550.653:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+May 17, 2022 17:33:23.52 NEW SESSION
+May 17, 2022 17:33:23.52 [3784:8592:0517/173323.519:ERROR:device_event_log_impl.cc(214)] [17:33:23.519] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 17, 2022 17:33:23.52 [3784:8592:0517/173323.520:ERROR:device_event_log_impl.cc(214)] [17:33:23.520] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 17, 2022 17:33:23.52 [3784:8592:0517/173323.520:ERROR:device_event_log_impl.cc(214)] [17:33:23.520] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 17, 2022 17:34:19.67 [3784:1232:0517/173419.678:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jun 08, 2022 19:39:40.58 NEW SESSION
+Jun 08, 2022 19:39:40.58 [13452:11812:0608/193940.580:ERROR:device_event_log_impl.cc(214)] [19:39:40.580] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 08, 2022 19:39:40.58 [13452:11812:0608/193940.584:ERROR:device_event_log_impl.cc(214)] [19:39:40.584] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 08, 2022 19:40:37.39 [13452:14420:0608/194037.393:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jun 08, 2022 22:52:21.40 NEW SESSION
+Jun 08, 2022 22:52:21.40 [9592:15920:0608/225221.407:ERROR:device_event_log_impl.cc(214)] [22:52:21.407] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 08, 2022 22:52:21.41 [9592:15920:0608/225221.408:ERROR:device_event_log_impl.cc(214)] [22:52:21.408] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 08, 2022 22:52:21.41 [9592:15920:0608/225221.408:ERROR:device_event_log_impl.cc(214)] [22:52:21.408] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 08, 2022 22:53:18.22 [9592:11984:0608/225318.226:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+<!-- Template PUBLIC -->
+  <definition name="template.cland" template="/WEB-INF/views/templates/cland.jsp">
+    <put-attribute name="header" value="/WEB-INF/views/components/cland/header.jsp" />
+    <put-attribute name="title" value="Dự án Land" />
+    <put-attribute name="rightbar" value="/WEB-INF/views/components/cland/rightbar.jsp" />
+    <put-attribute name="body" value="" />
+    <put-attribute name="footer" value="/WEB-INF/views/components/cland/footer.jsp" />
+  </definition>
+  
+  <definition name="cland.index" extends="template.cland" >
+  	<put-attribute name="title" value="Cland | Trang chủ" />
+    <put-attribute name="body" value="/WEB-INF/views/cland/index.jsp" />
+  </definition>
+   
+  <definition name="cland.cat" extends="template.cland" >
+  	<put-attribute name="title" value="Cland | Danh mục" />
+    <put-attribute name="body" value="/WEB-INF/views/cland/cat.jsp" />
+  </definition>
+  
+  <definition name="cland.contact" extends="template.cland" >
+  	<put-attribute name="title" value="Cland | Liên hệ" />
+    <put-attribute name="body" value="/WEB-INF/views/cland/contact.jsp" />
+  </definition>
+  
+  <definition name="cland.detail" extends="template.cland" >
+    <put-attribute name="title" value="Cland | Chi tiết" />
+    <put-attribute name="body" value="/WEB-INF/views/cland/detail.jsp" />
+  </definition>
+  
+  <definition name="cland.manage" extends="template.cland" >
+    <put-attribute name="title" value="Cland | Quản lý đất" />
+    <put-attribute name="body" value="/WEB-INF/views/cland/manage.jsp" />
+  </definition>
+  
+  <definition name="cland.add" extends="template.cland" >
+    <put-attribute name="title" value="Cland | Thêm đất" />
+    <put-attribute name="body" value="/WEB-INF/views/cland/add.jsp" />
+  </definition>
+  
+  <definition name="cland.edit" extends="template.cland" >
+    <put-attribute name="title" value="Cland | Thêm đất" />
+    <put-attribute name="body" value="/WEB-INF/views/cland/edit.jsp" />
+  </definition>
+  
+</tiles-definitions>
